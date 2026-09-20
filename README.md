@@ -22,7 +22,7 @@ I enjoy building projects involving **exploratory data analysis, statistical mod
     <img src="https://img.shields.io/badge/GitHub-LUCAS--BORGES05-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/lucas-borges-06ab0a237/">
     <img src="https://img.shields.io/badge/LinkedIn-LUCAS%20BORGES-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -125,17 +125,7 @@ Customer segmentation project using transactional and behavioral data to identif
 
 ---
 
-### ⚽ Football Analytics
 
-Data Science projects focused on football statistics, player performance, team analysis, and statistical curiosities.
-
-**Technologies:**
-
-`Python` `Pandas` `SQL` `Matplotlib` `Machine Learning`
-
-🔗 [View projects](SEU_LINK)
-
----
 
 ### 🌧️ ClouData — FIAP × Minsait
 
