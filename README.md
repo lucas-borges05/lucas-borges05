@@ -157,18 +157,35 @@ Customer segmentation project using information such as MRR, tickets, NPS and te
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&theme=tokyonight&langs_count=8"
+  />
 
 </p>
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="left">
+
+  <img 
+    src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"
+  />
+
+</p>
 ## 📚 Currently Learning
 
 ```text
