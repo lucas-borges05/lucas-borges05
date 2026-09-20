@@ -1,123 +1,157 @@
-# 👋 Olá, eu sou Lucas Borges!
+# Hi 👋, I'm Lucas Borges
 
-### 🎓 Cientista de Dados | Python | SQL | Machine Learning
+🚀 **Data Scientist | Python | SQL | Machine Learning**
 
-Sou formado em **Ciência de Dados pela FIAP**, com interesse em transformar dados em insights e soluções utilizando estatística, programação e Machine Learning.
+🇧🇷 Brazil
 
-Atualmente, trabalho com **Digital Analytics e Web Analytics**, atuando com dados, instrumentação, validação de eventos e tecnologias como **GA4, BigQuery, Databricks e GTM**.
+🎓 **Data Science graduate from FIAP**
 
-Meu objetivo é evoluir cada vez mais na área de **Data Science e Data Engineering**, desenvolvendo projetos que envolvam análise exploratória, modelagem estatística, Machine Learning e engenharia de dados.
+I work with **data, analytics, and technology**, transforming raw data into insights and intelligent solutions.
 
----
+My main interests are **Data Science, Machine Learning, Data Analytics, and Data Engineering**.
 
-## 🚀 Sobre mim
-
-- 🎓 Formado em **Ciência de Dados — FIAP**
-- 💼 Experiência com **Digital Analytics / Web Analytics**
-- 🐍 Python para análise e Machine Learning
-- 🗄️ SQL e bancos de dados
-- 🤖 Machine Learning
-- 📊 Análise exploratória e visualização de dados
-- ☁️ Databricks, BigQuery e conceitos de Cloud
-- ⚽ Interesse especial em **Data Science aplicada ao futebol**
+I enjoy building projects involving **exploratory data analysis, statistical modeling, machine learning, data visualization, and large-scale data processing**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🌐 Where to find me
 
-### Linguagens
+<p align="left">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+  <a href="SEU_GITHUB">
+    <img src="https://img.shields.io/badge/GitHub-LUCASBORGES-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-### Data Science
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-LUCAS%20BORGES-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### Data & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/Databricks-EF3A2D?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
-
-### BI & Analytics
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 🧠 Data Science
+## 🧠 What I do
 
-Atualmente venho aprofundando meus conhecimentos em:
-
-- 📈 Regressão Linear
-- 🌳 Árvores de Decisão
-- 🔵 K-Means
-- 🧮 Estatística e Probabilidade
-- 📐 Álgebra Linear
-- 📊 Análise Exploratória de Dados (EDA)
-- 🔄 Feature Engineering
-- 🎯 Métricas de avaliação
-- ⚙️ Cross-Validation
-- 🔬 PCA e redução de dimensionalidade
-- 🤖 Machine Learning supervisionado e não supervisionado
+* 🐍 Data analysis with Python
+* 📊 Exploratory Data Analysis (EDA)
+* 🤖 Machine Learning
+* 📈 Statistical analysis & modeling
+* 🗄️ SQL & data manipulation
+* ☁️ Data processing with Databricks & BigQuery
+* 📊 Data visualization & dashboards
+* 🔎 Data quality & validation
+* ⚙️ Data pipelines & processing
+* ⚽ Football Analytics & Sports Data
 
 ---
 
-## 📂 Projetos
+## 🛠️ Tech Stack
 
-### 🛒 Segmentação de Clientes — Olist
+### 🐍 Data Science
 
-Projeto de análise e segmentação de clientes utilizando técnicas de **Data Science e Machine Learning**.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-**Tecnologias:**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
+
+---
+
+### 🗄️ Data & Databases
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlebigquery\&logoColor=white)
+
+![Databricks](https://img.shields.io/badge/Databricks-EF3A2D?style=for-the-badge\&logo=databricks\&logoColor=white)
+
+---
+
+### 📊 Analytics & BI
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=000000)
+
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge\&logo=googleanalytics\&logoColor=white)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+
+---
+
+### ☁️ Cloud & Tools
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 🤖 Machine Learning
+
+Currently developing projects and studying concepts such as:
+
+* 📈 Linear Regression
+* 🌳 Decision Trees
+* 🔵 K-Means Clustering
+* 🎯 Classification
+* 📊 Model Evaluation
+* 📉 MSE, RMSE, MAE & R²
+* 🎲 Log Loss
+* 🔄 Cross-Validation
+* ⚙️ Feature Engineering
+* 📐 Standardization & Normalization
+* 🧩 PCA
+* 📊 Exploratory Data Analysis
+* 🧮 Statistics & Probability
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Customer Segmentation — Olist
+
+Customer segmentation project using transactional and behavioral data to identify different customer profiles.
+
+**Technologies:**
 
 `Python` `Pandas` `NumPy` `Scikit-Learn` `K-Means` `Matplotlib`
 
-🔗 [Ver projeto](#)
+🔗 [View project](SEU_LINK)
 
 ---
 
 ### ⚽ Football Analytics
 
-Projetos voltados para análise de dados do futebol, explorando estatísticas, desempenho de jogadores e equipes.
+Data Science projects focused on football statistics, player performance, team analysis, and statistical curiosities.
 
-**Tecnologias:**
+**Technologies:**
 
 `Python` `Pandas` `SQL` `Matplotlib` `Machine Learning`
 
-🔗 [Ver projetos](#)
+🔗 [View projects](SEU_LINK)
 
 ---
 
-### 🌧️ ClouData — FIAP
+### 🌧️ ClouData — FIAP × Minsait
 
-Projeto desenvolvido durante o desafio da FIAP em parceria com a **Minsait**, utilizando dados para apoiar decisões relacionadas a eventos climáticos e segurança energética.
+Data-driven solution developed during the FIAP challenge in partnership with Minsait, focused on climate events, flooding and energy security.
 
-**Tecnologias:**
+**Technologies:**
 
-`Python` `API` `Data Lake` `Cloud` `SQL`
+`Python` `API` `Data Lake` `SQL` `Cloud`
 
 ---
 
-### 👥 Customer Segmentation — TOTVS
+### 👥 Customer Segmentation — FIAP × TOTVS
 
-Projeto de segmentação de clientes utilizando dados de MRR, tickets, NPS e telemetria.
+Customer segmentation project using information such as MRR, tickets, NPS and telemetry.
 
-**Tecnologias:**
+**Technologies:**
 
 `Python` `Databricks` `Azure` `SQL` `Machine Learning`
 
@@ -125,40 +159,62 @@ Projeto de segmentação de clientes utilizando dados de MRR, tickets, NPS e tel
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="left">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
 
-</div>
+</p>
 
 ---
 
-## 📈 Atualmente estudando
+## 📚 Currently Learning
 
 ```text
-Python
-  ├── Pandas
-  ├── NumPy
-  ├── Matplotlib
-  └── Scikit-Learn
+Data Science
+├── Python
+├── Pandas
+├── NumPy
+├── Statistics
+└── Data Visualization
 
 Machine Learning
-  ├── Regressão
-  ├── Classificação
-  ├── Clusterização
-  ├── Feature Engineering
-  └── Model Evaluation
+├── Regression
+├── Classification
+├── Clustering
+├── Feature Engineering
+└── Model Evaluation
 
 Data Engineering
-  ├── SQL
-  ├── Databricks
-  ├── BigQuery
-  └── Cloud
+├── SQL
+├── Databricks
+├── BigQuery
+└── Cloud
 
-Matemática
-  ├── Estatística
-  ├── Probabilidade
-  ├── Álgebra Linear
-  └── Cálculo
+Mathematics
+├── Statistics
+├── Probability
+├── Linear Algebra
+└── Calculus
+```
+
+---
+
+## ⚽ Beyond Data
+
+I'm particularly interested in applying **Data Science to football**, exploring how statistics, machine learning and data visualization can be used to understand player and team performance.
+
+I'm also building projects around **football analytics and statistical storytelling**.
+
+---
+
+## 🚀 Philosophy
+
+> *"Data becomes valuable when we transform it into knowledge, and knowledge into better decisions."*
+
+---
+
+⭐ If you like my projects, consider starring a repository.
+
+🤝 Always open to learning, collaborating, and building interesting data projects.
