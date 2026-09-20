@@ -18,8 +18,8 @@ I enjoy building projects involving **exploratory data analysis, statistical mod
 
 <p align="left">
 
-  <a href="SEU_GITHUB">
-    <img src="https://img.shields.io/badge/GitHub-LUCASBORGES-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/lucas-borges05">
+    <img src="https://img.shields.io/badge/GitHub-LUCAS--BORGES05-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="SEU_LINKEDIN">
@@ -174,7 +174,6 @@ Customer segmentation project using information such as MRR, tickets, NPS and te
   />
 
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
