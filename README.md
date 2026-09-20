@@ -159,22 +159,13 @@ Customer segmentation project using information such as MRR, tickets, NPS and te
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <p align="left">
-
   <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=lucas-borges05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-borges05&layout=donut"
   />
-
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-borges05&layout=donut&theme=tokyonight&langs_count=8"
-  />
-
 </p>
----
 
 ## 🔥 GitHub Streak
 
