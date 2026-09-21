@@ -198,13 +198,6 @@ Mathematics
 
 ---
 
-## ⚽ Beyond Data
-
-I'm particularly interested in applying **Data Science to football**, exploring how statistics, machine learning and data visualization can be used to understand player and team performance.
-
-I'm also building projects around **football analytics and statistical storytelling**.
-
----
 
 ## 🚀 Philosophy
 
