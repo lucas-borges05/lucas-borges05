@@ -75,23 +75,5 @@ I enjoy building projects involving **exploratory data analysis, statistical mod
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
----
 
-## 🤖 Machine Learning
-
-Currently developing projects and studying concepts such as:
-
-* 📈 Linear Regression
-* 🌳 Decision Trees
-* 🔵 K-Means Clustering
-* 🎯 Classification
-* 📊 Model Evaluation
-* 📉 MSE, RMSE, MAE & R²
-* 🎲 Log Loss
-* 🔄 Cross-Validation
-* ⚙️ Feature Engineering
-* 📐 Standardization & Normalization
-* 🧩 PCA
-* 📊 Exploratory Data Analysis
-* 🧮 Statistics & Probability
 
