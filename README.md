@@ -30,20 +30,6 @@ I enjoy building projects involving **exploratory data analysis, statistical mod
 
 ---
 
-## 🧠 What I do
-
-* 🐍 Data analysis with Python
-* 📊 Exploratory Data Analysis (EDA)
-* 🤖 Machine Learning
-* 📈 Statistical analysis & modeling
-* 🗄️ SQL & data manipulation
-* ☁️ Data processing with Databricks & BigQuery
-* 📊 Data visualization & dashboards
-* 🔎 Data quality & validation
-* ⚙️ Data pipelines & processing
-* ⚽ Football Analytics & Sports Data
-
----
 
 ## 🛠️ Tech Stack
 
